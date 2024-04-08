@@ -1,9 +1,9 @@
 # PyHotel - Sistema de Gestão para Hotéis.
-
+### oi
 import os
 from time import sleep
 import pickle
-
+print("oi")
 ##################################################
 ###################### Menus #####################
 ##################################################
